@@ -1760,7 +1760,7 @@ switch:
     id: relay_2
     pin:
       number: 19
-    restore_mode: RESTORE_DEFAULT_OFF
+    restore_mode: RESTORE_DEFAULT_ON
     on_turn_on:
       then:
         - lambda: |-
